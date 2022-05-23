@@ -1,0 +1,9 @@
+[submodule "rotten-potatoes-ms"]
+	path = rotten-potatoes-ms
+	url = git@github.com:Almir2017/rotten-potatoes-ms.git
+[submodule "movie"]
+	path = movie
+	url = git@github.com:Almir2017/movie.git
+[submodule "review"]
+	path = review
+	url = git@github.com:Almir2017/review.git
